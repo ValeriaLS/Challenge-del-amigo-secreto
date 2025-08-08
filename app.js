@@ -58,3 +58,4 @@
             asignarTextoElemento('#resultado', `El amigo secreto es: ${amigoAleatorio}`);
         }
 
+
